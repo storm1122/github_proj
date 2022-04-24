@@ -1,4 +1,1 @@
-# github_proj
-### 测试github desktop
-### 分支命名规则
-### merge request
+- [wiki](https://github.com/storm1122/github_proj/wiki)
